@@ -1,0 +1,14 @@
+payload:
+    - 'film.ohhhh.org' # NMEmby
+    - 'emby.aca.best' # ACA Emby
+    - 'porn.aca.best' #  ACA Pron Emby
+    - 'stream.ntrrr.top' # SYN Emby
+    - 'e01.811920.xyz' # TDD Emby
+    - 'free.xmsl.org' # 垃圾影音 - 中转线路
+    - 'cf.emby.ml' # 垃圾影音 - CF线路
+    - 'emby.pilipiliultra.top' # PiliPili - 主线路
+    - 'emby.pilipiliultra.com' # PiliPili - CF路
+    - 'stream1.misakaf.org' # MisakaF
+    - 'stream2.misakaf.org' # MisakaF
+    - 'stream3.misakaf.org' # MisakaF
+    - 'stream4.misakaf.org' # MisakaF
