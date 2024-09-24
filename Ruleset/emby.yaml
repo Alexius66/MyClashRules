@@ -8,7 +8,4 @@ payload:
     - cf.emby.ml
     - emby.pilipiliultra.top
     - emby.pilipiliultra.com
-    - stream1.misakaf.org
-    - stream2.misakaf.org
-    - stream3.misakaf.org
-    - stream4.misakaf.org
+    - +.misakaf.org
